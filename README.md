@@ -39,4 +39,4 @@ Le programme utilise un fichier nommé bibliotheque.csv pour stocker les informa
  ahmed , 1 , JKRowling , Fantasy , A wizard boy , 19.99 ,
 
  *Auteurs*
-Développé par [zakaria sibousse,oussama chafik,yahya jaati,salah din arkhis/zakaria sib].
+Développé par [zakaria sibousse,oussama chafik,yahya jaati,salah din arkhis,ghali abhar/zakaria sib].
